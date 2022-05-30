@@ -180,17 +180,12 @@
        "CAPTION": {
                         "description": "caption එකට දාන්න ඕන මැසේජ් එක ",
                         "required": false,
-                        "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²"
+                        "value": "© ɢᴇɴᴇʀᴀᴛᴇͥᴅ ʙͣʏͫ sɪʟᴠᴇʀ ʙᴏᴛ  ²⁰²²"
        },   
       "COFFEEHOUSE_": {
             "description": "එය අත්හරින්න. අපි ඔබට මෙය ලබා දෙනවා.",
             "required": false,
             "value": "true"
-        },
-	"ALIVE_STIC": {
-        "description": "direct webp ලින්ක් එකක් යොදන්න.නැත්නම්  default ලෙසම තබන්න.බොට් ක්‍රියාත්මක ඌ පසු වට්සැප් හරහාම එය වෙනස් කළ හැක.",
-        "required": false,
-        "value": "default"
         },
 	 "IMGBB": {
         "description": "imgbb.com එකට ගිහින් ලොගින් වෙලා ලැබෙන apikey එක මෙහි යොදන්න.",
