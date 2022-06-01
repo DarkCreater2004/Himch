@@ -90,7 +90,7 @@ module.exports = {
     DEBUG: DEBUG,
     COFFEEHOUSE_API_KEY: process.env.COFFEEHOUSE_API_KEY === undefined ? false : process.env.COFFEEHOUSE_API_KEY,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "",
+    SUPPORT: "120363042229973049",
     SUPPORT2: "",
     SUPPORT3: "",
     Support4: "",
